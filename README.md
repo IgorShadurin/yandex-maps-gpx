@@ -1,6 +1,6 @@
 # Yandex Maps → GPX
 
-<img src="icons/icon128.png" width="80" height="80" alt="A route turning into a download arrow">
+<img src="icons/readme-icon.svg" width="80" height="80" alt="A route turning into a download arrow">
 
 **Take a route you planned in Yandex Maps into your GPS app.**
 
