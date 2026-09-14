@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*.gpx
+*.kml
+*.geojson
+*.csv
+node_modules/
+private/
+artifacts/
+*.zip
